@@ -1,0 +1,15 @@
+digest: ca6b5c09
+name: dataset
+profile: '{"num_rows": 2000, "num_elements": 20000}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "CreditScore", "required":
+  true}, {"type": "double", "name": "Geography", "required": true}, {"type": "double",
+  "name": "Gender", "required": true}, {"type": "double", "name": "Age", "required":
+  true}, {"type": "double", "name": "Tenure", "required": true}, {"type": "double",
+  "name": "Balance", "required": true}, {"type": "double", "name": "NumOfProducts",
+  "required": true}, {"type": "double", "name": "HasCrCard", "required": true}, {"type":
+  "double", "name": "IsActiveMember", "required": true}, {"type": "double", "name":
+  "EstimatedSalary", "required": true}]}'
+source: '{"tags": {"mlflow.user": "nabil", "mlflow.source.name": "d:/PIDI SUBMISION/Membangun
+  Sistem Machine Learning/SMSML_Nabila Choirunisa/Membangun_model/modelling.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "e5ebf587ba77114c024046956f29f5170390a556"}}'
+source_type: code

@@ -24,8 +24,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas scikit-learn
 
-    - name: Run Preprocessing Script
+    - name: Check Files
       run: |
+        pwd
+        ls
+        ls preprocessing
+
+    - name: Run preprocessing
+      run: |
+        cd preprocessing
         python automate_Nabila-Choirunisa.py
 
     - name: Upload Cleaned Dataset
