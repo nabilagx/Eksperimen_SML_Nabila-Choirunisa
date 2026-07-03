@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PIDI%20SUBMISION/Membangun%20Sistem%20Machine%20Learning/SMSML_Nabila%20Choirunisa/Workflow-CI/MLProject/mlruns/0/2bc69572f10d4eaa97c4b9e07a28c5a8/artifacts
+end_time: 1783049893372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bc69572f10d4eaa97c4b9e07a28c5a8
+run_name: resilient-sloth-828
+run_uuid: 2bc69572f10d4eaa97c4b9e07a28c5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783049882883
+status: 4
+tags: []
+user_id: nabil
