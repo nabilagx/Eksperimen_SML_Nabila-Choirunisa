@@ -44,7 +44,9 @@ def preprocess(input_path, output_path):
 
 if __name__ == "__main__":
 
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
     preprocess(
-        "Churn_Modelling.csv",
-        "preprocessing/Churn_Modelling_clean.csv"
+        os.path.join(BASE_DIR, "Churn_Modelling.csv"),
+        os.path.join(BASE_DIR, "Churn_Modelling_clean.csv")
     )
